@@ -2,8 +2,8 @@ English | [简体中文](README_zh_rCN.md)
 
 # Dhizuku
 
-[![Downloads](https://img.shields.io/github/downloads/iamr0s/Dhizuku/total?label=Downloads)](https://github.com/iamr0s/Dhizuku/releases)
-[![Lastest](https://img.shields.io/github/v/release/iamr0s/Dhizuku?label=Lastest)](https://github.com/iamr0s/Dhizuku/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/iamr0s/Dhizuku/total?label=Downloads)](https://github.com/libamidi/Dhizuku/releases)
+[![Lastest](https://img.shields.io/github/v/release/iamr0s/Dhizuku?label=Lastest)](https://github.com/libamidi/Dhizuku/releases/latest)
 
 ## Introduction
 
@@ -27,7 +27,7 @@ If you would like to get involved in translating Dhizuku, head over to [Weblate]
 
 [![status](https://hosted.weblate.org/widgets/dhizuku/-/multi-auto.svg)](https://hosted.weblate.org/engage/dhizuku/)
 
-## Donation support
+## Donate to the original author
 
 - [Alipay](https://qr.alipay.com/fkx18580lfpydiop04dze47)
 - [Wechat](https://missuo.ru/file/fee5df1381671c996b127.png)
