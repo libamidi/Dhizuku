@@ -1,9 +1,9 @@
 简体中文 | [English](README.md)
 
-# Dhizuku
+# Dhizuku（[原作者](https://github.com/iamr0s "r0san")已停更）
 
-[![Downloads](https://img.shields.io/github/downloads/iamr0s/Dhizuku/total?label=Downloads)](https://github.com/iamr0s/Dhizuku/releases)
-[![Lastest](https://img.shields.io/github/v/release/iamr0s/Dhizuku?label=Lastest)](https://github.com/iamr0s/Dhizuku/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/iamr0s/Dhizuku/total?label=Downloads)](https://github.com/libamidi/Dhizuku/releases)
+[![Lastest](https://img.shields.io/github/v/release/iamr0s/Dhizuku?label=Lastest)](https://github.com/libamidi/Dhizuku/releases/latest)
 
 ## 介绍
 
